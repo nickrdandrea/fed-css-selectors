@@ -37,3 +37,24 @@ h1, h2 {
 #item2 {
   text-align: right;
 }
+
+ol > li {
+  padding: 2px;
+  background-color: grey;
+}
+
+li:nth-child(2n+1) {
+  background-color: green;
+}
+
+[title="Bitmaker"]:hover {
+  text-decoration: none;
+}
+
+ul li a:active{
+  background-color: red;
+}
+
+ul li a:hover{
+  background-color: yellow;
+}
