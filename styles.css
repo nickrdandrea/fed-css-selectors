@@ -12,3 +12,20 @@ header {
 h1, h2 {
   font-family: sans-serif;
 }
+
+.class-list {
+  list-style-type: square;
+}
+
+.item {
+  border: 1px solid green;
+}
+
+.even {
+  background-color: grey;
+}
+
+.odd {
+  color: white;
+  background-color: black;
+}
