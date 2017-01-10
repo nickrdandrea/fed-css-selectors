@@ -29,3 +29,11 @@ h1, h2 {
   color: white;
   background-color: black;
 }
+
+#item1 {
+  font-size: 30px;
+}
+
+#item2 {
+  text-align: right;
+}
